@@ -12,7 +12,7 @@
   CSDN:
 
 四、参考资料
-  参考了华为liteOS开源社区的帖子,社区链接：https://bbs.huaweicloud.com/forum/thread-66201-1-1.html
-  小熊派开发板全套资料获取： https://bbs.huaweicloud.com/forum/thread-22109-1-1.html
-  小熊派IoT开发板系列教程合集：https://bbs.huaweicloud.com/forum/forum.php?mod=viewthread&tid=26415
+  1. 参考了华为liteOS开源社区的帖子,社区链接：https://bbs.huaweicloud.com/forum/thread-66201-1-1.html
+  2. 小熊派开发板全套资料获取： https://bbs.huaweicloud.com/forum/thread-22109-1-1.html
+  3. 小熊派IoT开发板系列教程合集：https://bbs.huaweicloud.com/forum/forum.php?mod=viewthread&tid=26415
   
