@@ -13,8 +13,8 @@
   3. 应用层：华为云负责平台数据包解析，实时显示数据并推送报警信息（短信报警和华为云平台报警）。
 
 三、本人与该项目相关的博客：
-  1.立创硬件开源平台 https://oshwhub.com/zefff/wan-zheng-dian-lu
-  2.CSDN
+  1. 立创硬件开源平台： https://oshwhub.com/zefff/wan-zheng-dian-lu
+  2. CSDN：https://blog.csdn.net/qq_43724409/article/details/125072438?spm=1001.2014.3001.5502
 
 四、参考资料
   1. 参考了华为liteOS开源社区的帖子,社区链接：https://bbs.huaweicloud.com/forum/thread-66201-1-1.html
