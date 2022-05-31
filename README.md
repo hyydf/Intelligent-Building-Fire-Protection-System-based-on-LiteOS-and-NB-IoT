@@ -1,5 +1,5 @@
 # Intelligent-Building-Fire-Protection-System
-该项目是一个基于华为LiteOS的智慧楼宇消防系统，主要技术包含传感器，LiteOS, NB-IoT, 2G, 华为云等。基于小熊派智慧烟感案例进行开发。
+该项目是一个基于华为LiteOS的智慧楼宇消防系统，主要技术包含传感器，LiteOS, NB-IoT, 2G, 华为云等。基于小熊派智慧烟感案例进行开发。**（记得点个右上角star呦~)**
 
 一、文件说明：
   1. Smoke.zip是完整的项目代码。（VScode为1.52.1版本，使用IoT link插件, 小熊派开发板）
