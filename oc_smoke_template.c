@@ -173,7 +173,7 @@ static int app_warn_entry()
             HAL_GPIO_WritePin(GPIOA,jidianqi_Pin,RESET);//继电器
             while(flag)
             {
-                uart3_send("ATD15612881213;\r\n",16,200);//拨打电话
+                uart3_send("ATD1561288****;\r\n",16,200);//拨打电话
                 uart2_send(voicecirculate,5,200);//循环模式
                 //uart2_send(voiceonetime,5,200);//单曲模式
                 uart2_send(voiceopen,4,200);//语音
